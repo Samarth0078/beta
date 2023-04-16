@@ -1,4 +1,4 @@
-# beta
+# Beta
 # Final project
 
 Minting and Burning a coin using solidity.
